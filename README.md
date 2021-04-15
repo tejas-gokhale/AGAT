@@ -16,8 +16,8 @@ pip install the following:
 pytorch (works with 1.6.0), numpy, tqdm, skimage , colorama
 ```
 
-
-## Inference
+## CIFAR-10 Experiments:
+### Inference
 Pretrained models are found in `./results/`.
 Please run:
 `python test_ours.py --shared layer2 --rotation_type expand --group_norm 8 \
@@ -25,7 +25,10 @@ Please run:
 
 For instance, to reproduce the "blur+noise" model from the paper (Table), replace `<ckpt_path>` by `./results/cifar10_agat_blur_noise/ckpt_final.pth`
 
-## Training
+### Training
+Coming soon!
+
+## CLEVR-Singles Experiments:
 Coming soon!
 
 ## Reference
