@@ -1,7 +1,7 @@
 # AGAT: Attribute-Guided Adversarial Training for Robustness to Natural Perturbations
 This repository contains code for the AAAI 2021 paper of the same name.  A preprint is available here: https://arxiv.org/abs/2012.01806 .
 
-The CLEVR-Singles dataset released as part of our publication can be found in a separate repository [https://github.com/tejas-gokhale/CLEVR-Singles][https://github.com/tejas-gokhale/CLEVR-Singles]
+The CLEVR-Singles dataset released as part of our publication can be found in a separate repository https://github.com/tejas-gokhale/CLEVR-Singles[https://github.com/tejas-gokhale/CLEVR-Singles]
 
 ## Datasets
 This repository is currently setup for the CIFAR-10-C benchmark (Hendrycks and Dietterich) 
